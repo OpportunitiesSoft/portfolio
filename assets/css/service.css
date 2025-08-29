@@ -1,0 +1,16 @@
+                .single-service {
+    height: 100%; /* make each card take full height */
+    display: flex;
+    flex-direction: column;
+}
+
+.single-service .service {
+    flex-grow: 1; /* allow content to stretch */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* space out content */
+}
+
+.single-service .content {
+    flex-grow: 1; /* ensures text area grows */
+}

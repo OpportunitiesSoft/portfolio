@@ -11735,39 +11735,38 @@ Footer Style Two
   background-size: cover;
   background-position: center;
   border-radius: 5px;
-  background-color: #0a0a0a;
-  background-image: url(../images/portfolio/portfolio-1.jpg);
+  /* background-image: url(../images/portfolio/django_1.png); */
   transform: scale(1.13) translateZ(0);
   backface-visibility: hidden;
   transition: transform 0.28s ease;
   z-index: 4;
 }
 .portfolio .thumbnail.image-1 {
-  background-image: url(../images/portfolio/portfolio-1.jpg);
+  background-image: url(../images/portfolio/django_1.png);
 }
 .portfolio .thumbnail.image-2 {
-  background-image: url(../images/portfolio/portfolio-2.jpg);
+  background-image: url(../images/portfolio/odoo_1.png);
 }
 .portfolio .thumbnail.image-3 {
-  background-image: url(../images/portfolio/portfolio-3.jpg);
+  background-image: url(../images/portfolio/webdesign_1.png);
 }
 .portfolio .thumbnail.image-4 {
-  background-image: url(../images/portfolio/portfolio-4.jpg);
+  background-image: url(../images/portfolio/django_2.png);
 }
 .portfolio .thumbnail.image-5 {
-  background-image: url(../images/portfolio/portfolio-5.jpg);
+  background-image: url(../images/portfolio/odoo_2.png);
 }
 .portfolio .thumbnail.image-6 {
-  background-image: url(../images/portfolio/portfolio-6.jpg);
+  background-image: url(../images/portfolio/webdesign_2.png);
 }
 .portfolio .thumbnail.image-7 {
-  background-image: url(../images/portfolio/portfolio-7.jpg);
+  background-image: url(../images/portfolio/django_3.png);
 }
 .portfolio .thumbnail.image-8 {
-  background-image: url(../images/portfolio/portfolio-8.jpg);
+  background-image: url(../images/portfolio/django_4.png);
 }
 .portfolio .thumbnail.image-9 {
-  background-image: url(../images/portfolio/portfolio-9.jpg);
+  background-image: url(../images/portfolio/mlai_1.JPG);
 }
 .portfolio .thumbnail::after {
   background-color: rgba(45, 45, 45, 0.35);
